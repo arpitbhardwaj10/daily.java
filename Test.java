@@ -1,11 +1,9 @@
 package TrialPrograms;
 
-public class Demo {
+public class Test {
     public static void main(String[]args){
-        System.out.println("HEllO");
-        System.out.println(" ");
+        System.out.println("HELLO");
         System.out.println("BYE");
-
     }
     
 }
